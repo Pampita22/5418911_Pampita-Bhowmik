@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line changed in branch A
+=======
+line changed in branch B
+>>>>>>> branch-b
